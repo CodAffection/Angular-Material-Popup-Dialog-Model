@@ -9,7 +9,7 @@
 - Customize angular popup modal
  
  
- # Step By Step Explanation
+ # Step By Step Explanation [on 24-Sep]
  
  Video Tutorial : https://youtu.be/ZL0d3M3uoRQ
  
